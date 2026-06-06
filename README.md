@@ -11,17 +11,11 @@
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
----
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Ajayy-s.Ajayy-s&left_color=7c3aed&right_color=a78bfa" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 ---
 
-## 👤 About Me
 ## 👤 About Me
 
 | | |
