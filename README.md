@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-<img src="YAHAN_GIF_URL_PASTE_KARO" width="350" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
