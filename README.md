@@ -9,7 +9,17 @@
 </div>
 
 ---
+</div>
 
+---
+
+<div align="center">
+<img src="YAHAN_GIF_URL_PASTE_KARO" width="350" />
+</div>
+
+---
+
+## 👤 About Me
 ## 👤 About Me
 
 | | |
