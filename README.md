@@ -13,10 +13,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 ---
 
 ## 👤 About Me
@@ -164,4 +160,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,100:7c3aed&height=150&section=header&text=Ajay%20Singh&fontSize=40&fontColor=ffffff&animation=blinking" width="100%" />
