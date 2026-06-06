@@ -56,7 +56,6 @@
 <img src="https://streak-stats.demolab.com?user=Ajayy-s&theme=midnight-purple&hide_border=true&background=0f0c29" />
 </div>
 
-## ⚒️ Tech Stack
 
 ## ⚒️ Tech Stack
 
