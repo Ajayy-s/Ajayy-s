@@ -17,15 +17,13 @@
 
 ## 👤 About Me
 
-🎓 **Degree** — MCA Integrated
-
-📍 **Domain** — Data Analytics & Data Science
-
-🔨 **Status** — Actively learning & building
-
-🎯 **Goal** — Professional Data Analyst
-
-🧠 **Mindset** — Beginner today — Expert tomorrow
+| | |
+|---|---|
+| 🎓 **Degree** | MCA Integrated |
+| 📍 **Domain** | Data Analytics & Data Science |
+| 🔨 **Status** | Actively learning & building |
+| 🎯 **Goal** | Professional Data Analyst |
+| 🧠 **Mindset** | Beginner today — Expert tomorrow |
 ## 🚀 What I'm Learning
 
 - 📊 **Data Analytics** — Cleaning, exploring and visualizing data
