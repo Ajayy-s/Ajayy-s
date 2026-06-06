@@ -127,8 +127,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajayy-s&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-&nbsp;
+<img src="https://raw.githubusercontent.com/Ajayy-s/Ajayy-s/main/banner.png" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayy-s&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
 
 </div>
@@ -162,6 +161,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Learning+%26+Building+Every+Day+%E2%AD%90&fontSize=18&fontColor=a78bfa&fontAlignY=65" />
+<img src="https://raw.githubusercontent.com/Ajayy-s/Ajayy-s/main/footer.png" />
 
 </div>
