@@ -52,6 +52,9 @@
 </div>
 
 ---
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ajayy-s&theme=dracula&no-frame=true&row=1" />
+</div>
 
 ## ⚒️ Tech Stack
 
