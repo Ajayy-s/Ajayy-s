@@ -23,7 +23,7 @@
 | 📍**Domain** | Data Analytics & Data Science |
 | 🔨 **Status** | Actively learning & building |
 | 🎯 **Goal** | Professional Data Analyst |
-| 🧠**Mindset** | Beginner today — Expert tomorrow |
+| 🧠 **Mindset** | Beginner today — Expert tomorrow |
 ## 🚀 What I'm Learning
 
 - 📊 **Data Analytics** — Cleaning, exploring and visualizing data
