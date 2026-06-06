@@ -53,27 +53,7 @@
 
 <div align="center">
 
-
-
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
-
- 
-
-![SQL](https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=a78bfa)
-
- 
-
-![C++](https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
-
- 
-
-![HTML](https://img.shields.io/badge/HTML-0f0c29?style=for-the-badge&logo=html5&logoColor=a78bfa)
-
- 
-
-![CSS](https://img.shields.io/badge/CSS-0f0c29?style=for-the-badge&logo=css3&logoColor=a78bfa)
-
-
+<img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/HTML-0f0c29?style=for-the-badge&logo=html5&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/CSS-0f0c29?style=for-the-badge&logo=css3&logoColor=a78bfa" />
 
 </div>
 
@@ -81,31 +61,7 @@
 
 <div align="center">
 
-
-
-![Power BI](https://img.shields.io/badge/Power_BI-0f0c29?style=for-the-badge&logo=powerbi&logoColor=a78bfa)
-
- 
-
-![Pandas](https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=a78bfa)
-
- 
-
-![NumPy](https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=a78bfa)
-
- 
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0f0c29?style=for-the-badge&logoColor=a78bfa)
-
- 
-
-![Seaborn](https://img.shields.io/badge/Seaborn-0f0c29?style=for-the-badge&logoColor=a78bfa)
-
- 
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa)
-
-
+<img src="https://img.shields.io/badge/Power_BI-0f0c29?style=for-the-badge&logo=powerbi&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Matplotlib-0f0c29?style=for-the-badge&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Seaborn-0f0c29?style=for-the-badge&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Scikit--Learn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa" />
 
 </div>
 
@@ -117,23 +73,7 @@
 
 <div align="center">
 
-
-
-![SQL](https://img.shields.io/badge/SQL-0f0c29?style=flat-square&logo=mysql&logoColor=a78bfa)
-
- 
-
-![Python](https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=a78bfa)
-
- 
-
-![Power BI](https://img.shields.io/badge/Power_BI-0f0c29?style=flat-square&logo=powerbi&logoColor=a78bfa)
-
- 
-
-![ML](https://img.shields.io/badge/Machine_Learning-0f0c29?style=flat-square&logo=scikit-learn&logoColor=a78bfa)
-
-
+<img src="https://img.shields.io/badge/SQL-0f0c29?style=flat-square&logo=mysql&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Power_BI-0f0c29?style=flat-square&logo=powerbi&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Machine_Learning-0f0c29?style=flat-square&logo=scikit-learn&logoColor=a78bfa" />
 
 </div>
 
@@ -156,19 +96,7 @@
 
 <div align="center">
 
-
-
-![Python](https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=a78bfa)
-
- 
-
-![Pandas](https://img.shields.io/badge/Pandas-0f0c29?style=flat-square&logo=pandas&logoColor=a78bfa)
-
- 
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0f0c29?style=flat-square&logo=scikit-learn&logoColor=a78bfa)
-
-
+<img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Pandas-0f0c29?style=flat-square&logo=pandas&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Scikit--Learn-0f0c29?style=flat-square&logo=scikit-learn&logoColor=a78bfa" />
 
 </div>
 
@@ -202,16 +130,11 @@
 
 ---
 
-
-
 ## 📫 Connect With Me
 
 <div align="center">
 
-<a href="mailto:Ajay.singh888100@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa" /></a>
-<a href="https://github.com/Ajayy-s"><img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
-<a href="https://www.linkedin.com/in/ajay-singh8"><img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa" /></a>
-<a href="https://www.instagram.com/ajay.singh6255"><img src="https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=a78bfa" /></a>
+<a href="mailto:Ajay.singh888100@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa" /></a> <a href="https://github.com/Ajayy-s"><img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" /></a> <a href="https://www.linkedin.com/in/ajay-singh8"><img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa" /></a> <a href="https://www.instagram.com/ajay.singh6255"><img src="https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=a78bfa" /></a>
 
 </div>
 
