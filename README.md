@@ -19,7 +19,7 @@
 
 | | |
 |---|---|
-|🎓 **Degree** | MCA Integrated |
+|🎓**Degree** | MCA Integrated |
 | 📍 **Domain** | Data Analytics & Data Science |
 | 🔨 **Status** | Actively learning & building |
 | 🎯 **Goal** | Professional Data Analyst |
