@@ -204,25 +204,14 @@
 
 ## 📫 Connect With Me
 
+## 📫 Connect With Me
+
 <div align="center">
 
-[
-
-![Gmail](https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa)
-
-](mailto:Ajay.singh888100@gmail.com) [
-
-![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)
-
-](https://github.com/Ajayy-s) [
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa)
-
-](https://www.linkedin.com/in/ajay-singh8) [
-
-![Instagram](https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=a78bfa)
-
-](https://www.instagram.com/ajay.singh6255)
+<a href="mailto:Ajay.singh888100@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa" /></a>
+<a href="https://github.com/Ajayy-s"><img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
+<a href="https://www.linkedin.com/in/ajay-singh8"><img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa" /></a>
+<a href="https://www.instagram.com/ajay.singh6255"><img src="https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=a78bfa" /></a>
 
 </div>
 
