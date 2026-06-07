@@ -18,7 +18,7 @@
 
 <h2 align="center">👤 About Me</h2>
 
-<table align="center" width="700">
+<table align="center" width="900">
 <tr>
 <td>🎓 <b>Degree</b></td>
 <td>MCA Integrated</td>
