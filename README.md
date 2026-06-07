@@ -21,27 +21,42 @@
 <table align="center">
 <tr>
 <td width="250">🎓 <b>Degree</b></td>
-<td width="500">MCA Integrated</td>
+<td width="500">MCA Integrated Student</td>
 </tr>
 
 <tr>
 <td>📍 <b>Domain</b></td>
-<td>Data Analytics & Data Science</td>
+<td>Data Analytics, Data Science & Machine Learning</td>
 </tr>
 
 <tr>
 <td>🔨 <b>Status</b></td>
-<td>Actively learning & building real-world projects</td>
+<td>Actively learning and building real-world projects</td>
 </tr>
 
 <tr>
 <td>🎯 <b>Goal</b></td>
-<td>Become a Professional Data Analyst</td>
+<td>Become a Professional Data Analyst & AI-driven Problem Solver</td>
 </tr>
 
 <tr>
 <td>🧠 <b>Mindset</b></td>
-<td>Beginner today — Expert tomorrow</td>
+<td>Beginner today — Consistent learner for tomorrow</td>
+</tr>
+
+<tr>
+<td>🚀 <b>Current Journey</b></td>
+<td>Improving skills in Python, Power BI, SQL, Flask & Machine Learning</td>
+</tr>
+
+<tr>
+<td>📊 <b>Interests</b></td>
+<td>EDA, dashboards, predictive analytics & AI-powered applications</td>
+</tr>
+
+<tr>
+<td>🌱 <b>Learning Philosophy</b></td>
+<td>Learning by building practical projects and solving real-world problems</td>
 </tr>
 </table>
 
