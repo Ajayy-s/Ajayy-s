@@ -67,7 +67,7 @@
 
 <tr>
 <td>📉 <b>EDA First</b></td>
-<td>Understand the data deeply before applying machine learning</td>
+<td>Understanding data deeply before applying machine learning</td>
 </tr>
 
 <tr>
@@ -79,9 +79,22 @@
 <td>📊 <b>Visualize</b></td>
 <td>Every insight should tell a meaningful story</td>
 </tr>
-</table>
 
----
+<tr>
+<td>🤖 <b>AI + Data</b></td>
+<td>Combining Machine Learning with real-world problem solving</td>
+</tr>
+
+<tr>
+<td>🌐 <b>Deployment</b></td>
+<td>Learning Flask, APIs & deployment for production-ready projects</td>
+</tr>
+
+<tr>
+<td>📚 <b>Continuous Learning</b></td>
+<td>Improving skills daily through hands-on practice and experimentation</td>
+</tr>
+</table>
 
 
 ---
