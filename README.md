@@ -57,19 +57,31 @@
 
 ---
 
-## 💡 My Current Focus
+<h2 align="center">💡 My Current Focus</h2>
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="250">📂 <b>Real Projects</b></td>
+<td width="500">Building practical projects instead of only watching tutorials</td>
+</tr>
 
-| | |
-|---|---|
-| 📂 **Real Projects** | Not just tutorials |
-| 📉 **EDA First** | Understand before modeling |
-| 🔁 **Iterate** | Build → Break → Fix → Learn |
-| 📊 **Visualize** | Every insight needs a story |
+<tr>
+<td>📉 <b>EDA First</b></td>
+<td>Understand the data deeply before applying machine learning</td>
+</tr>
 
-</div>
-```
+<tr>
+<td>🔁 <b>Iterate</b></td>
+<td>Build → Break → Fix → Learn → Improve</td>
+</tr>
+
+<tr>
+<td>📊 <b>Visualize</b></td>
+<td>Every insight should tell a meaningful story</td>
+</tr>
+</table>
+
+---
 
 
 ---
