@@ -16,15 +16,35 @@
 ---
 
 
-## 👤 About Me
+<h2 align="center">👤 About Me</h2>
 
-| | |
-|---|---|
-| 🎓 **Degree** | MCA Integrated |
-| 📍 **Domain** | Data Analytics & Data Science |
-| 🔨 **Status** | Actively learning & building |
-| 🎯 **Goal** | Professional Data Analyst |
-| 🧠 **Mindset** | Beginner today — Expert tomorrow |
+<table align="center" width="700">
+<tr>
+<td>🎓 <b>Degree</b></td>
+<td>MCA Integrated</td>
+</tr>
+
+<tr>
+<td>📍 <b>Domain</b></td>
+<td>Data Analytics & Data Science</td>
+</tr>
+
+<tr>
+<td>🔨 <b>Status</b></td>
+<td>Actively learning & building</td>
+</tr>
+
+<tr>
+<td>🎯 <b>Goal</b></td>
+<td>Professional Data Analyst</td>
+</tr>
+
+<tr>
+<td>🧠 <b>Mindset</b></td>
+<td>Beginner today — Expert tomorrow</td>
+</tr>
+</table>
+
 </div>
 ---
 
