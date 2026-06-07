@@ -17,7 +17,7 @@
 
 
 ## 👤 About Me
-
+</div>
 | | |
 |---|---|
 | 🎓 **Degree** | MCA Integrated |
