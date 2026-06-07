@@ -20,28 +20,28 @@
 
 <table align="center">
 <tr>
-<td>🎓 <b>Degree</b></td>
-<td>&nbsp;&nbsp;&nbsp;MCA Integrated</td>
+<td width="250">🎓 <b>Degree</b></td>
+<td width="500">MCA Integrated</td>
 </tr>
 
 <tr>
 <td>📍 <b>Domain</b></td>
-<td>&nbsp;&nbsp;&nbsp;Data Analytics & Data Science</td>
+<td>Data Analytics & Data Science</td>
 </tr>
 
 <tr>
 <td>🔨 <b>Status</b></td>
-<td>&nbsp;&nbsp;&nbsp;Actively learning & building real-world projects</td>
+<td>Actively learning & building real-world projects</td>
 </tr>
 
 <tr>
 <td>🎯 <b>Goal</b></td>
-<td>&nbsp;&nbsp;&nbsp;Become a Professional Data Analyst</td>
+<td>Become a Professional Data Analyst</td>
 </tr>
 
 <tr>
 <td>🧠 <b>Mindset</b></td>
-<td>&nbsp;&nbsp;&nbsp;Beginner today — Expert tomorrow</td>
+<td>Beginner today — Expert tomorrow</td>
 </tr>
 </table>
 
