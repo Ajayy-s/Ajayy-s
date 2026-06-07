@@ -15,21 +15,25 @@
 
 ---
 
+
 ## 👤 About Me
 
 | | |
 |---|---|
-|🎓**Degree** | MCA Integrated |
-| 📍**Domain** | Data Analytics & Data Science |
+| 🎓 **Degree** | MCA Integrated |
+| 📍 **Domain** | Data Analytics & Data Science |
 | 🔨 **Status** | Actively learning & building |
 | 🎯 **Goal** | Professional Data Analyst |
 | 🧠 **Mindset** | Beginner today — Expert tomorrow |
+
+---
+
 ## 🚀 What I'm Learning
 
-- 📊 **Data Analytics** — Cleaning, exploring and visualizing data
-- 🐍 **Python** — Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-- 🗄️ **SQL** — Writing queries, joins, aggregations
-- 📈 **Power BI** — Building interactive dashboards
+- 📊 **Data Analytics** — Cleaning, exploring and visualizing data  
+- 🐍 **Python** — Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
+- 🗄️ **SQL** — Writing queries, joins, aggregations  
+- 📈 **Power BI** — Building interactive dashboards  
 - 🤖 **Machine Learning** — Classification & Regression models
 
 ---
@@ -46,6 +50,8 @@
 | 📊 **Visualize** | Every insight needs a story |
 
 </div>
+```
+
 
 ---
 <div align="center">
