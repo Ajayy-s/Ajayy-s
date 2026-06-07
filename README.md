@@ -17,7 +17,7 @@
 
 
 ## 👤 About Me
-</div>
+
 | | |
 |---|---|
 | 🎓 **Degree** | MCA Integrated |
@@ -25,7 +25,7 @@
 | 🔨 **Status** | Actively learning & building |
 | 🎯 **Goal** | Professional Data Analyst |
 | 🧠 **Mindset** | Beginner today — Expert tomorrow |
-
+</div>
 ---
 
 ## 🚀 What I'm Learning
