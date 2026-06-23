@@ -132,7 +132,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Power_BI-0f0c29?style=for-the-badge&logo=powerbi&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Matplotlib-0f0c29?style=for-the-badge&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Seaborn-0f0c29?style=for-the-badge&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Scikit--Learn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Power_BI-0f0c29?style=for-the-badge&logo=powerbi&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Matplotlib-0f0c29?style=for-the-badge&logo=matplotlib&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Seaborn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Scikit--Learn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa" />
 
 </div>
 
