@@ -21,14 +21,14 @@
 
 🛠️ **Technical Skills**
 
-### 💻 Languages & Databases
-<img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/SQL-0f0c29?style=flat-square&logo=mysql&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/PostgreSQL-0f0c29?style=flat-square&logo=postgresql&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/C++-0f0c29?style=flat-square&logo=cplusplus&logoColor=a78bfa" />
+### 💻 Programming Languages
+<img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/SQL-0f0c29?style=flat-square&logo=mysql&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/C-0f0c29?style=flat-square&logo=c&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/C++-0f0c29?style=flat-square&logo=cplusplus&logoColor=a78bfa" />
 
-### 📊 Business Intelligence & Analytics
-<img src="https://img.shields.io/badge/Power_BI-0f0c29?style=flat-square&logo=powerbi&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Excel-0f0c29?style=flat-square&logo=microsoftexcel&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Pandas-0f0c29?style=flat-square&logo=pandas&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/NumPy-0f0c29?style=flat-square&logo=numpy&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Scikit--Learn-0f0c29?style=flat-square&logo=scikit-learn&logoColor=a78bfa" />
+### 📊 Data & Analytics
+<img src="https://img.shields.io/badge/Power_BI-0f0c29?style=flat-square&logo=powerbi&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Excel-0f0c29?style=flat-square&logo=microsoftexcel&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/PostgreSQL-0f0c29?style=flat-square&logo=postgresql&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Pandas-0f0c29?style=flat-square&logo=pandas&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/NumPy-0f0c29?style=flat-square&logo=numpy&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Scikit--Learn-0f0c29?style=flat-square&logo=scikit-learn&logoColor=a78bfa" />
 
-### 🌐 Frameworks & Developer Tools
-<img src="https://img.shields.io/badge/Flask-0f0c29?style=flat-square&logo=flask&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Git-0f0c29?style=flat-square&logo=git&logoColor=a78bfa" />
+### 🔧 Tools & Technologies
+<img src="https://img.shields.io/badge/VS_Code-0f0c29?style=flat-square&logo=visual-studio-code&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Git-0f0c29?style=flat-square&logo=git&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/GitHub-0f0c29?style=flat-square&logo=github&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Flask-0f0c29?style=flat-square&logo=flask&logoColor=a78bfa" />
 
 ---
 
