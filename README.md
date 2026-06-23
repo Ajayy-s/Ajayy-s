@@ -12,9 +12,9 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
 ---
-
 
 <h2 align="center">👤 About Me</h2>
 
@@ -111,25 +111,23 @@
 </tr>
 </table>
 
-
 ---
+
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Ajayy-s&theme=midnight-purple&hide_border=true&background=0f0c29" />
 </div>
 
+---
 
 ## ⚒️ Tech Stack
 
 ### 💻 Languages
-
 <img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/C-0f0c29?style=for-the-badge&logo=c&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=a78bfa" />
 
 ### 📊 Data & Analytics
-
 <img src="https://img.shields.io/badge/Power_BI-0f0c29?style=for-the-badge&logo=powerbi&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Matplotlib-0f0c29?style=for-the-badge&logo=matplotlib&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Seaborn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Scikit--Learn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa" />
 
 ### 🔧 Tools & Technologies
-
 <img src="https://img.shields.io/badge/Visual_Studio-0f0c29?style=for-the-badge&logo=visualstudio&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Flask-0f0c29?style=for-the-badge&logo=flask&logoColor=a78bfa" />
 
 ---
@@ -145,10 +143,10 @@
 **🔍 Problem:** Predict customer churn so the business can take preventive action early.
 
 **🛠️ What I Did:**
-- 🗄️ Queried and aggregated usage data using **SQL**.
-- 🐍 Conducted data cleaning and **EDA** with Pandas & Seaborn.
-- 🤖 Built a **Random Forest classifier** for churn prediction.
-- 📊 Tracked metrics via an interactive **Power BI dashboard**.
+* 🗄️ Queried and aggregated usage data using **SQL**.
+* 🐍 Conducted data cleaning and **EDA** with Pandas & Seaborn.
+* 🤖 Built a **Random Forest classifier** for churn prediction.
+* 📊 Tracked metrics via an interactive **Power BI dashboard**.
 
 **📊 Key Result:** Successfully identified high-risk customer segments for retention. ✅
 
@@ -163,9 +161,9 @@
 **🔍 Problem:** Model and predict gold prices based on global economic features.
 
 **🛠️ What I Did:**
-- 📥 Preprocessed historical financial datasets using Python.
-- 🔗 Analyzed **correlations** across market assets (USD, S&P 500).
-- 🤖 Developed a **Regression model** to predict price trends.
+* 📥 Preprocessed historical financial datasets using Python.
+* 🔗 Analyzed **correlations** across market assets (USD, S&P 500).
+* 🤖 Developed a **Regression model** to predict price trends.
 
 **📊 Key Result:** Built a functional regression pipeline to evaluate asset price shifts. ✅
 
@@ -176,10 +174,6 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayy-s&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
-
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajayy-s&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true" />
 
@@ -200,10 +194,6 @@
 <div align="center">
 
 *"Data is not information, information is not knowledge — but with the right tools, data becomes everything."*
-
-</div>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
 
