@@ -122,27 +122,15 @@
 
 ### 💻 Languages
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/C-0f0c29?style=for-the-badge&logo=c&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=a78bfa" />
-
-</div>
 
 ### 📊 Data & Analytics
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/Power_BI-0f0c29?style=for-the-badge&logo=powerbi&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Matplotlib-0f0c29?style=for-the-badge&logo=matplotlib&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Seaborn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Scikit--Learn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa" />
-
-</div>
 
 ### 🔧 Tools & Technologies
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/Visual_Studio-0f0c29?style=for-the-badge&logo=visualstudio&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Flask-0f0c29?style=for-the-badge&logo=flask&logoColor=a78bfa" />
-
-</div>
 
 ---
 
@@ -150,11 +138,7 @@
 
 ### 📌 Project 1 — Telecom Customer Churn Analysis
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/SQL-0f0c29?style=flat-square&logo=mysql&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Power_BI-0f0c29?style=flat-square&logo=powerbi&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Machine_Learning-0f0c29?style=flat-square&logo=scikit-learn&logoColor=a78bfa" />
-
-</div>
 
 > 📡 *Identifying customer attrition risks to help businesses retain revenue.*
 
@@ -172,11 +156,7 @@
 
 ### 📌 Project 2 — Gold Price Prediction
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Pandas-0f0c29?style=flat-square&logo=pandas&logoColor=a78bfa" /> <img src="https://img.shields.io/badge/Scikit--Learn-0f0c29?style=flat-square&logo=scikit-learn&logoColor=a78bfa" />
-
-</div>
 
 > 💰 *Analyzing market indicators to forecast historical financial trends.*
 
