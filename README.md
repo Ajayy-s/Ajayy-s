@@ -17,47 +17,54 @@
 
 </div>
 
-<h2>🧭 About Me</h2>
+## 🧭 About Me
 
-<pre><code><span style="color:#7CFC00">name:</span> <span style="color:#A5D6FF">Ajay Singh</span>
-<span style="color:#7CFC00">role:</span> <span style="color:#A5D6FF">Aspiring Data Analyst | Data Science Learner</span>
-<span style="color:#7CFC00">education:</span> <span style="color:#A5D6FF">Integrated MCA Student</span>
-<span style="color:#7CFC00">focus:</span> <span style="color:#A5D6FF">Data Analytics, Business Intelligence, and Data Storytelling</span>
-<span style="color:#7CFC00">philosophy:</span> <span style="color:#A5D6FF">"Turn data into understanding, and understanding into action."</span>
-<span style="color:#7CFC00">currently_exploring:</span>
-  <span style="color:#A5D6FF">- Excel and Power Query</span>
-  <span style="color:#A5D6FF">- SQL and PostgreSQL</span>
-  <span style="color:#A5D6FF">- Python for data analysis</span>
-  <span style="color:#A5D6FF">- Power BI, DAX, and dashboard design</span>
-  <span style="color:#A5D6FF">- Statistics and practical analytics projects</span></code></pre>
+```yaml
+name: Ajay Singh
+role: Aspiring Data Analyst | Exploring Data Science & Machine Learning
+education: Integrated MCA Student
+career_goal: Entry-Level Data Analyst Opportunity
+interests:
+  - Data Analytics & Business Intelligence
+  - Machine Learning Fundamentals
+  - Exploratory Data Analysis (EDA)
+  - Data Visualization & Storytelling
+currently_learning:
+  - Excel, Power Query, and SQL
+  - Python, Pandas, and NumPy
+  - Power BI, DAX, and Dashboard Design
+  - Statistics and Machine Learning Basics
+philosophy: "Learn by building, improve through practice."
+```
 
-<p>I am an Integrated MCA student working toward an entry-level Data Analyst role. I enjoy turning raw data into clear, useful insights that answer business questions. I am building practical skills in data cleaning, querying, analysis, visualization, and communicating findings through projects.</p>
+I am an Integrated MCA student building practical skills in Data Analytics and exploring Machine Learning. I enjoy working with data, identifying patterns, answering business questions, and presenting insights through clear visualizations. As a fresher, I am focused on strengthening my fundamentals, building hands-on projects, and learning how data-driven decisions create business value.
 
-<h2>🎯 Current Focus</h2>
+## 🎯 Current Focus
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Building</strong>
+      <strong>🛠️ Building</strong>
       <ul>
-        <li>Data cleaning and analysis workflows</li>
-        <li>SQL-based business analysis</li>
-        <li>Interactive Power BI dashboards</li>
-        <li>Portfolio projects using realistic datasets</li>
+        <li>Data cleaning and exploratory data analysis</li>
+        <li>SQL queries for business insights</li>
+        <li>Power BI dashboards and reports</li>
+        <li>Portfolio projects using real-world datasets</li>
+        <li>Practical Python analysis workflows</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <strong>Learning</strong>
+      <strong>📚 Learning</strong>
       <ul>
         <li>Excel, Power Query, and reporting</li>
-        <li>SQL and PostgreSQL querying</li>
+        <li>SQL and PostgreSQL</li>
         <li>Python with Pandas, NumPy, and visualization libraries</li>
-        <li>Statistics, DAX, and data storytelling</li>
+        <li>Statistics and data storytelling</li>
+        <li>Machine Learning fundamentals and model evaluation</li>
       </ul>
     </td>
   </tr>
 </table>
-
 🧰 Tech Stack
 <table>
   <tr>
