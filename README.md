@@ -209,33 +209,19 @@ View my repositories · Replace with the direct project link when available.
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ajayy-s&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&bg_color=0D1117&title_color=37B7C3&icon_color=37B7C3&text_color=E6EDF3" alt="Ajay's GitHub Stats" />
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ajayy-s&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&bg_color=0D1117&title_color=7CFC00&icon_color=00BFFF&text_color=F0F6FC" alt="Ajay's GitHub Stats" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayy-s&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=37B7C3&text_color=E6EDF3" alt="Most Used Languages" />
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayy-s&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7CFC00&text_color=F0F6FC" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
 
 
-<img src="https://streak-stats.demolab.com?user=Ajayy-s&hide_border=true&background=0D1117&ring=37B7C3&fire=37B7C3&currStreakLabel=37B7C3&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="95%" alt="GitHub contribution streak, total contributions, and longest streak" />
-
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajayy-s&bg_color=0D1117&color=E6EDF3&line=37B7C3&point=37B7C3&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph" />
-
-
-
-
-<img src="https://ghchart.rshah.org/37B7C3/Ajayy-s" width="98%" alt="GitHub contribution calendar" />
+<img src="https://streak-stats.demolab.com?user=Ajayy-s&hide_border=true&background=0D1117&ring=7CFC00&fire=7CFC00&currStreakLabel=00BFFF&sideLabels=7CFC00&currStreakNum=00BFFF&sideNums=7CFC00&dates=F0F6FC" width="88%" alt="GitHub total contributions, current streak, and longest streak" />
 
 </div>
-
-<p align="center">
-  <sub>Stats reflect the activity and code visible to the connected public GitHub services. Cards may take time to load; language percentages depend on the code in your public repositories.</sub>
-</p>
 
 💭 My Philosophy
 Good analysis starts with a meaningful question. My goal is to make data understandable, communicate its limitations, and share insights that support better decisions.
