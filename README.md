@@ -17,14 +17,41 @@
 
 </div>
 
-👋 About Me
-I'm an Integrated MCA student working toward an entry-level Data Analyst role. I enjoy turning raw data into clear answers to business questions using Excel, SQL, Python, and Power BI.
+🧭 About Me
+name: Ajay Singh
+role: Aspiring Data Analyst | Integrated MCA Student
+education: Integrated MCA
+focus: Data Analytics, Business Intelligence, and Data Storytelling
+philosophy: "Turn data into understanding, and understanding into action."
+currently_exploring:
+  - Excel and Power Query
+  - SQL and PostgreSQL
+  - Python for data analysis
+  - Power BI, DAX, and dashboard design
+  - Statistics and practical analytics projects
+I am an Integrated MCA student working toward an entry-level Data Analyst role. I enjoy turning raw data into clear, useful insights that help answer business questions. I am building practical skills in data cleaning, querying, analysis, visualization, and communicating findings through projects.
+🎯 Current Focus
 <table>
-  <tr><td width="28%"><b>🎓 Education</b></td><td>Integrated MCA student — update with your current year/semester</td></tr>
-  <tr><td><b>🎯 Career Goal</b></td><td>Data Analyst internship / fresher role</td></tr>
-  <tr><td><b>🧰 Core Tools</b></td><td>Excel · SQL · Power BI · Python</td></tr>
-  <tr><td><b>🌱 Currently Learning</b></td><td>SQL querying, DAX fundamentals, data storytelling</td></tr>
-  <tr><td><b>💡 Approach</b></td><td>Ask a business question, prepare the data, analyze it, and communicate the findings</td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Building</strong>
+      <ul>
+        <li>Data cleaning and analysis workflows</li>
+        <li>SQL-based business analysis</li>
+        <li>Interactive Power BI dashboards</li>
+        <li>Portfolio projects using realistic datasets</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Learning</strong>
+      <ul>
+        <li>Excel, Power Query, and reporting</li>
+        <li>SQL and PostgreSQL querying</li>
+        <li>Python with Pandas, NumPy, and visualization libraries</li>
+        <li>Statistics, DAX, and data storytelling</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 🧰 Tech Stack
