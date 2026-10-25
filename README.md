@@ -207,19 +207,13 @@ View my repositories · Replace with the direct project link when available.
 📊 GitHub Analytics
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ajayy-s&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&bg_color=0D1117&title_color=7CFC00&icon_color=00BFFF&text_color=F0F6FC" alt="Ajay's GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayy-s&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7CFC00&text_color=F0F6FC" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ajayy-s&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&bg_color=0D1117&title_color=7CFC00&icon_color=00BFFF&text_color=F0F6FC" alt="Ajay's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayy-s&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7CFC00&text_color=F0F6FC" alt="Most Used Languages" />
 
 
-<img src="https://streak-stats.demolab.com?user=Ajayy-s&hide_border=true&background=0D1117&ring=7CFC00&fire=7CFC00&currStreakLabel=00BFFF&sideLabels=7CFC00&currStreakNum=00BFFF&sideNums=7CFC00&dates=F0F6FC" width="88%" alt="GitHub total contributions, current streak, and longest streak" />
+
+
+<img height="165" src="https://streak-stats.demolab.com?user=Ajayy-s&hide_border=true&background=0D1117&ring=7CFC00&fire=7CFC00&currStreakLabel=00BFFF&sideLabels=7CFC00&currStreakNum=00BFFF&sideNums=7CFC00&dates=F0F6FC" alt="GitHub total contributions, current streak, and longest streak" />
 
 </div>
 
