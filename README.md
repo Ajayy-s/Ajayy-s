@@ -1,21 +1,13 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ajay%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20MCA%20Integrated%20Student&descAlignY=60&descColor=C4B5FD&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Ajay%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Science%20Learner&descAlignY=59&descColor=C4B5FD&animation=fadeIn" width="100%" alt="Ajay Singh header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Turning+Data+into+Meaningful+Insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Explore+%E2%86%92+Analyze+%E2%86%92+Visualize+%E2%86%92+Improve;Learning+by+Building+Real-World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+Raw+Data+into+Useful+Insights;Data+Cleaning+%E2%86%92+EDA+%E2%86%92+Dashboard;Learning+by+Building+Real-World+Projects" alt="Typing SVG"/>
 
 
-<a href="https://www.linkedin.com/in/ajay-singh8">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-302b63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:Ajay.singh888100@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-302b63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Ajayy-s">
-  <img src="https://img.shields.io/badge/GitHub-Follow-302b63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
+<a href="https://github.com/Ajayy-s"><img src="https://img.shields.io/badge/GitHub-Profile-0f0c29?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/ajay-singh8"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f0c29?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:Ajay.singh888100@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 
 
@@ -23,143 +15,143 @@
 
 </div>
 
-👋 Professional Introduction
-I'm an Integrated MCA student building practical skills in Data Analytics and Data Science. I enjoy working with data to uncover patterns, answer business questions, and communicate findings through clear visualizations.
+📌 Professional Introduction
+I'm an Integrated MCA student building practical skills in Data Analytics and Data Science. I enjoy exploring datasets, finding patterns, and presenting insights through clear reports and dashboards.
 
-My current focus is strengthening my foundations in Excel, SQL, Python, and Power BI through hands-on practice and portfolio projects.
-My approach: Ask better questions → clean the data → analyze the evidence → communicate useful insights.
+My current focus is developing job-ready skills in Excel, SQL, Power BI, and Python by practicing with datasets and building portfolio projects.
+My workflow: Understand the question → prepare the data → analyze patterns → visualize findings → communicate insights.
 
 🧭 About Me
-<table>
-  <tr><td><b>🎓 Education</b></td><td>Integrated MCA student</td></tr>
-  <tr><td><b>🎯 Career Goal</b></td><td>Entry-level Data Analyst role</td></tr>
-  <tr><td><b>📊 Interests</b></td><td>Data cleaning, exploratory data analysis, dashboards, business reporting</td></tr>
-  <tr><td><b>🧰 Core Tools</b></td><td>Excel, SQL, Power BI, Python</td></tr>
-  <tr><td><b>🌱 Currently Improving</b></td><td>SQL querying, analytics workflows, visualization, and project storytelling</td></tr>
-  <tr><td><b>💡 Philosophy</b></td><td>Learn by building, practice consistently, and explain insights clearly</td></tr>
-</table>
-
+name: Ajay Singh
+role: Aspiring Data Analyst
+education: Integrated MCA Student
+focus: Data Analytics, Business Intelligence, and Applied Data Science
+core_tools:
+  - Excel
+  - SQL / PostgreSQL
+  - Power BI
+  - Python
+learning:
+  - Data cleaning and exploratory data analysis
+  - SQL querying and business reporting
+  - Dashboard design and data storytelling
+  - Python analytics with Pandas and NumPy
+philosophy: "Learn by building. Improve through practice."
+I am working toward an entry-level Data Analyst role and building practical experience through projects. I aim to explain not only what the data shows, but also why the findings matter.
 🎯 Current Focus
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-📈 Building
-- Portfolio projects using real-world-style datasets
+🧱 Building
+- Data analysis portfolio projects
 - Interactive Power BI dashboards
-- SQL queries for business questions
-- Reproducible data cleaning and analysis workflows
+- SQL-based analysis and reporting
+- Reproducible data cleaning workflows
 </td>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 📚 Learning
 - Excel reporting and Power Query
-- SQL joins, aggregations, subqueries, and window functions
-- Python with Pandas and NumPy
-- Exploratory data analysis and visualization
-- Communicating findings as business recommendations
+- SQL joins, aggregations, CTEs, and window functions
+- Python, Pandas, and NumPy
+- Exploratory analysis and visualization
+- Business insights and recommendations
 </td>
-  </tr>
+</tr>
 </table>
 
-🛠️ Tech Stack
-📊 Data Analytics & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-1F4E79?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
+🛠️ Tech Stack & Tools
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🐍 Python & Data Libraries
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-</p>
+📊 Analytics & BI
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+🐍 Python & Libraries
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+</td>
+<td width="50%" valign="top">
 
-🗄️ Databases & Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
+🗄️ Databases
+<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+🔧 Developer Tools
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Colab"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</td>
+</tr>
+</table>
 
 🚀 Featured Projects
+Before publishing: Replace repository/demo placeholders with your real links. Add real project screenshots and only include measured results that you can support.
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 📉 Telecom Customer Churn Analysis
-Goal: Explore customer churn patterns and identify customer groups that may need retention attention.
+<!-- Replace this placeholder with your real dashboard screenshot:
+<img src="images/churn-dashboard.png" width="100%" alt="Customer churn dashboard"/>
+-->
+
+Goal: Analyze churn patterns and identify customer segments that may need retention attention.
 
 Tools: SQL · Python · Pandas · Power BI · Scikit-learn
 
-Project workflow
-- Prepare and clean the dataset
-- Use SQL to query and summarize customer data
-- Perform exploratory data analysis in Python
-- Build a Random Forest classification model
-- Present key patterns in a Power BI dashboard
-What to highlight in the final project
-- Churn rate and key customer segments
-- Model evaluation metrics on held-out data
-- Business recommendations supported by the analysis
-<!-- Add your actual repository and dashboard links when ready. -->
+Workflow
+- Clean and prepare customer data
+- Query and summarize data using SQL
+- Explore patterns with Python
+- Train and evaluate a Random Forest classifier
+- Present findings in a Power BI dashboard
+To document: churn rate, key segments, evaluation metrics, and evidence-based business recommendations.
 
+Repository
 </td>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 💰 Gold Price Prediction
-Goal: Explore historical gold-price data and evaluate a regression approach for estimating prices.
+<!-- Replace this placeholder with your real notebook/chart screenshot:
+<img src="images/gold-price-prediction.png" width="100%" alt="Gold price prediction chart"/>
+-->
 
-Tools: Python · Pandas · Scikit-learn · Data Visualization
+Goal: Explore historical gold-price data and evaluate a regression approach.
 
-Project workflow
-- Prepare historical data for analysis
-- Explore trends and relationships between available features
-- Examine correlations with relevant market indicators
+Tools: Python · Pandas · Scikit-learn · Visualization
+
+Workflow
+- Prepare historical data
+- Explore trends and feature relationships
+- Examine correlations with available market indicators
 - Train and evaluate a regression model
 - Compare predictions with actual values
-What to highlight in the final project
-- Dataset and feature descriptions
-- Evaluation metrics and validation approach
-- Limitations of predicting financial-market prices
-<!-- Add your actual repository and notebook links when ready. -->
+To document: dataset source, validation method, evaluation metrics, and model limitations.
 
+Repository
 </td>
-  </tr>
+</tr>
 </table>
 
-Portfolio tip: Add a real screenshot, repository link, dataset source, and measured results to each project card once those items are ready. Avoid publishing estimated or unverified performance numbers.
-
-🧠 My Data Analytics Workflow
+🔄 My Data Analytics Workflow
 <div align="center">
 
-Business Question → Data Collection → Data Cleaning → EDA → SQL / Python Analysis → Dashboard → Insights & Recommendations
+Business Question → Collect Data → Clean Data → Explore (EDA) → Analyze → Visualize → Recommend
 </div>
 
-📚 Learning Roadmap
+🗺️ Learning Journey — Data Analyst Roadmap
 <table>
-  <tr><td>✅ / 🔄</td><td><b>Excel</b></td><td>Data cleaning, formulas, PivotTables, reporting, and Power Query</td></tr>
-  <tr><td>🔄</td><td><b>SQL</b></td><td>Filtering, joins, aggregations, subqueries, CTEs, and window functions</td></tr>
-  <tr><td>🔄</td><td><b>Python</b></td><td>Core Python, Pandas, NumPy, data cleaning, and analysis</td></tr>
-  <tr><td>🔄</td><td><b>Visualization</b></td><td>Matplotlib, Seaborn, and clear visual storytelling</td></tr>
-  <tr><td>🔄</td><td><b>Power BI</b></td><td>Data modeling, DAX fundamentals, interactive dashboards</td></tr>
-  <tr><td>🔜</td><td><b>Portfolio</b></td><td>Polished case studies, documented projects, and interview practice</td></tr>
+<tr><td>📊</td><td><b>Excel</b></td><td>Cleaning, formulas, PivotTables, reporting, Power Query</td></tr>
+<tr><td>🗄️</td><td><b>SQL</b></td><td>Filtering, joins, aggregations, CTEs, window functions</td></tr>
+<tr><td>🐍</td><td><b>Python</b></td><td>Core Python, Pandas, NumPy, data cleaning, analysis</td></tr>
+<tr><td>📈</td><td><b>Visualization</b></td><td>Matplotlib, Seaborn, charts, data storytelling</td></tr>
+<tr><td>📊</td><td><b>Power BI</b></td><td>Data modeling, DAX, interactive dashboards</td></tr>
+<tr><td>💼</td><td><b>Career preparation</b></td><td>Case studies, GitHub documentation, resume, interview practice</td></tr>
 </table>
 
-📊 GitHub Analytics
+📈 GitHub Analytics
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ajayy-s&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayy-s&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ajayy-s&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" alt="Ajay's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayy-s&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" alt="Most used languages"/>
 
 <img src="https://streak-stats.demolab.com?user=Ajayy-s&theme=midnight-purple&hide_border=true&background=0f0c29" alt="GitHub streak"/>
 
@@ -167,30 +159,29 @@ Business Question → Data Collection → Data Cleaning → EDA → SQL / Python
 
 </div>
 
-🐍 Contribution Graph
+🐍 Contribution Snake
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 </div>
+
+🏆 Highlights
+- Building portfolio projects focused on practical data analysis.
+- Practicing SQL, Python, Excel, and Power BI through hands-on work.
+- Working toward an entry-level Data Analyst opportunity.
+- Focused on communicating clear, evidence-based insights.
+💭 My Philosophy
+I believe good analysis starts with a good question. The goal is not just to create charts or models, but to find reliable insights that help people make better decisions.
 
 🤝 Connect With Me
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ajay-singh8">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-302b63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:Ajay.singh888100@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-302b63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Ajayy-s">
-  <img src="https://img.shields.io/badge/GitHub-Profile-302b63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://www.linkedin.com/in/ajay-singh8"><img src="https://img.shields.io/badge/LinkedIn-Connect-302b63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:Ajay.singh888100@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-302b63?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/Ajayy-s"><img src="https://img.shields.io/badge/GitHub-Profile-302b63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 
 
-
-<i>"Good analysis doesn't just explain what happened — it helps people decide what to do next."</i>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=110&section=footer" width="100%" />
+<i>"Turn data into understanding, and understanding into action."</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
