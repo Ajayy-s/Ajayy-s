@@ -17,20 +17,24 @@
 
 </div>
 
-🧭 About Me
-name: Ajay Singh
-role: Aspiring Data Analyst | Data Science Learner
-education: Integrated MCA Student
-focus: Data Analytics, Business Intelligence, and Data Storytelling
-philosophy: "Turn data into understanding, and understanding into action."
-currently_exploring:
-  - Excel and Power Query
-  - SQL and PostgreSQL
-  - Python for data analysis
-  - Power BI, DAX, and dashboard design
-  - Statistics and practical analytics projects
-I am an Integrated MCA student working toward an entry-level Data Analyst role. I enjoy turning raw data into clear, useful insights that answer business questions. I am building practical skills in data cleaning, querying, analysis, visualization, and communicating findings through projects.
-🎯 Current Focus
+<h2>🧭 About Me</h2>
+
+<pre><code><span style="color:#7CFC00">name:</span> <span style="color:#A5D6FF">Ajay Singh</span>
+<span style="color:#7CFC00">role:</span> <span style="color:#A5D6FF">Aspiring Data Analyst | Data Science Learner</span>
+<span style="color:#7CFC00">education:</span> <span style="color:#A5D6FF">Integrated MCA Student</span>
+<span style="color:#7CFC00">focus:</span> <span style="color:#A5D6FF">Data Analytics, Business Intelligence, and Data Storytelling</span>
+<span style="color:#7CFC00">philosophy:</span> <span style="color:#A5D6FF">"Turn data into understanding, and understanding into action."</span>
+<span style="color:#7CFC00">currently_exploring:</span>
+  <span style="color:#A5D6FF">- Excel and Power Query</span>
+  <span style="color:#A5D6FF">- SQL and PostgreSQL</span>
+  <span style="color:#A5D6FF">- Python for data analysis</span>
+  <span style="color:#A5D6FF">- Power BI, DAX, and dashboard design</span>
+  <span style="color:#A5D6FF">- Statistics and practical analytics projects</span></code></pre>
+
+<p>I am an Integrated MCA student working toward an entry-level Data Analyst role. I enjoy turning raw data into clear, useful insights that answer business questions. I am building practical skills in data cleaning, querying, analysis, visualization, and communicating findings through projects.</p>
+
+<h2>🎯 Current Focus</h2>
+
 <table>
   <tr>
     <td width="50%" valign="top">
