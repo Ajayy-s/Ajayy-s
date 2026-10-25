@@ -68,39 +68,54 @@ I'm an Integrated MCA student working toward an entry-level Data Analyst role. I
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/01-DATA%20QUALITY-0B132B?style=for-the-badge&logo=databricks&logoColor=37B7C3" alt="Data quality"/><br/>
-      <sub>Missing values · Duplicates · Data types</sub>
+    <td align="center" width="25%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/01-DATA%20QUALITY-0B132B?style=for-the-badge&logo=databricks&logoColor=37B7C3" alt="Data quality"/>
+      <br/><br/>
+      <strong>Clean & Validate</strong>
+      <br/><br/>
+      <sub>Missing values</sub><br/>
+      <sub>Duplicate records</sub><br/>
+      <sub>Data types & formats</sub>
+      <br/><br/>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/02-ANALYSIS-0B132B?style=for-the-badge&logo=python&logoColor=37B7C3" alt="Analysis"/><br/>
-      <sub>SQL · Pandas · EDA · Statistics</sub>
+    <td align="center" width="25%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/02-ANALYSIS-0B132B?style=for-the-badge&logo=python&logoColor=37B7C3" alt="Analysis"/>
+      <br/><br/>
+      <strong>Explore & Analyze</strong>
+      <br/><br/>
+      <sub>SQL queries</sub><br/>
+      <sub>Pandas & EDA</sub><br/>
+      <sub>Descriptive statistics</sub>
+      <br/><br/>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/03-VISUALIZATION-0B132B?style=for-the-badge&logo=powerbi&logoColor=37B7C3" alt="Visualization"/><br/>
-      <sub>KPIs · Trends · Comparisons</sub>
+    <td align="center" width="25%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/03-VISUALIZATION-0B132B?style=for-the-badge&logo=powerbi&logoColor=37B7C3" alt="Visualization"/>
+      <br/><br/>
+      <strong>Present Findings</strong>
+      <br/><br/>
+      <sub>KPI reporting</sub><br/>
+      <sub>Trends & comparisons</sub><br/>
+      <sub>Dashboards</sub>
+      <br/><br/>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/04-DECISIONS-088395?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Decisions"/><br/>
-      <sub>Insights · Recommendations</sub>
+    <td align="center" width="25%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/04-DECISIONS-088395?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Decisions"/>
+      <br/><br/>
+      <strong>Recommend Actions</strong>
+      <br/><br/>
+      <sub>Key insights</sub><br/>
+      <sub>Business impact</sub><br/>
+      <sub>Recommendations</sub>
+      <br/><br/>
     </td>
   </tr>
 </table>
 
 </div>
-
-📈 Charts Every Analyst Should Know
-<table>
-  <tr><th>Chart</th><th>Best used for</th><th>Example business question</th></tr>
-  <tr><td><b>Bar / Column</b></td><td>Compare categories</td><td>Which product or segment performs best?</td></tr>
-  <tr><td><b>Line</b></td><td>Trends over time</td><td>How did sales or churn change month by month?</td></tr>
-  <tr><td><b>Scatter</b></td><td>Relationship between numeric variables</td><td>Are tenure and monthly charges associated?</td></tr>
-  <tr><td><b>Histogram / Box plot</b></td><td>Distribution and outliers</td><td>How are prices or customer charges distributed?</td></tr>
-  <tr><td><b>Stacked bar</b></td><td>Composition across groups</td><td>How does churn differ by contract type?</td></tr>
-  <tr><td><b>KPI cards</b></td><td>Headline metrics</td><td>What are total customers, churn rate, or revenue?</td></tr>
-</table>
-
-Good chart choice depends on the question and the data. Use clear labels, readable scales, meaningful titles, and avoid 3D effects or decorative charts that obscure the message.
 
 🚀 Featured Projects
 <table>
