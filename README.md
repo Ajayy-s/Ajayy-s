@@ -19,8 +19,8 @@
 
 🧭 About Me
 name: Ajay Singh
-role: Aspiring Data Analyst | Integrated MCA Student
-education: Integrated MCA
+role: Aspiring Data Analyst | Data Science Learner
+education: Integrated MCA Student
 focus: Data Analytics, Business Intelligence, and Data Storytelling
 philosophy: "Turn data into understanding, and understanding into action."
 currently_exploring:
@@ -29,7 +29,7 @@ currently_exploring:
   - Python for data analysis
   - Power BI, DAX, and dashboard design
   - Statistics and practical analytics projects
-I am an Integrated MCA student working toward an entry-level Data Analyst role. I enjoy turning raw data into clear, useful insights that help answer business questions. I am building practical skills in data cleaning, querying, analysis, visualization, and communicating findings through projects.
+I am an Integrated MCA student working toward an entry-level Data Analyst role. I enjoy turning raw data into clear, useful insights that answer business questions. I am building practical skills in data cleaning, querying, analysis, visualization, and communicating findings through projects.
 🎯 Current Focus
 <table>
   <tr>
